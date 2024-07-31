@@ -16,7 +16,7 @@ Clone the repository:
 
 bash
 Copy code
-git clonehttps://dwarak540.github.io/citiesweather/
+git clone https://dwarak540.github.io/citiesweather/
 Obtain an API key from the weather API provider and replace YOUR_API_KEY in script.js with your actual API key.
 
 Open index.html in your preferred web browser.
